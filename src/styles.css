@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Metal Mania;
+  font-weight: 400;
+  background-color: black;
+  color: #C2B8AF;
+}
